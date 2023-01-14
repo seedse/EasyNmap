@@ -1,0 +1,1 @@
+run installtool.sh before easynmap
